@@ -1,0 +1,47 @@
+
+.card{
+    background-color:lightgrey;
+}
+
+.sections{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: lightcyan;
+}
+
+h6{
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+button{
+    margin-top: 20px;
+    background-color: bisque;
+    font-weight: bold;
+}
+
+#inputname{
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.form-label{
+    font-style: oblique;
+    margin-right: 10px;
+}
+
+*{
+    font-family: 'Lucida Sans';
+}
+
+/* Teste ao comentário
+*/
+
+.image{
+    border: 2px black solid;
+    background-color: lightblue;
+    padding: 10px;
+}
